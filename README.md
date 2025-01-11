@@ -1,2 +1,3 @@
-# Detector-de-rostros-por-vision-por-computadora-para-formulario-de-usuario-web
-Detector de visión por computadora, para reconocimiento en formularios web
+flask==3.0.0
+opencv-python==4.8.1.78
+mediapipe==0.10.8
