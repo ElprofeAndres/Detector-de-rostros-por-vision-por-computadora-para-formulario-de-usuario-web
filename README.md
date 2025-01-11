@@ -1,3 +1,1 @@
-flask==3.0.0
-opencv-python==4.8.1.78
-mediapipe==0.10.8
+Se recomienda instalar dependencias y versiones a las establecidas por el proyecto, lo puede revisar en requirements.txt
